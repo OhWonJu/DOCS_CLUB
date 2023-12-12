@@ -33,4 +33,4 @@ ex) [DOCS|원주] ReadingParty 1회차 add/update/delete 2023-11-28
 ## 낭독회
 
 - ### 1회차
-  - [ex) React 시작하기]()
+  - [TanstackQuery 왜 써야 하죠?](https://common-sheet-da1.notion.site/TanstackQuery-Overview-1f045a5ae3bc40d5915d14905c006d79?pvs=4)
