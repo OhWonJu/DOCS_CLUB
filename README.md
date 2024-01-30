@@ -34,3 +34,7 @@ ex) [DOCS|원주] ReadingParty 1회차 add/update/delete 2023-11-28
 
 - ### 1회차
   - [TanstackQuery 왜 써야 하죠?](https://common-sheet-da1.notion.site/TanstackQuery-Overview-1f045a5ae3bc40d5915d14905c006d79?pvs=4)
+
+- ### 2회차
+  - [TanstackQuery 에서의 pagenation/infinite query](https://common-sheet-da1.notion.site/TanstackQuery-Paginated-Lagged-Queries-5e4a35efaaa34d5cab7607cc808532ba?pvs=4)
+  - [TanstackQuery 에서의 pagenation/infinite query](https://common-sheet-da1.notion.site/TanstackQuery-Infinite-Queries-9cf97285a5d14801b8019664bb376f3a?pvs=4)
